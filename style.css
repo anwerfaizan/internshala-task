@@ -1,0 +1,64 @@
+.navbar{
+    border:1px solid red;
+    background-color: teal;
+    justify-content:center;
+}
+
+.nav-link{
+    color:white
+}
+
+.nav-link:hover{
+    color: aqua;
+}
+
+.firstCTA{
+    /* background-color: aqua; */
+}
+
+.secondCTA{
+    background-color: bisque;
+}
+
+.feature{
+    /* background-color: cornflowerblue/ */
+}
+
+.feature1{
+font-size: 3rem;
+/* justify-content: center/ */
+background-color:cornflowerblue;
+color:white;
+border-radius: 2%;
+}
+
+.feature2{
+    font-size: 3rem;
+    background-color:cornflowerblue;
+    color:white;
+    border-radius: 2%;
+}
+
+.feature3{
+    font-size: 3rem;
+    background-color:cornflowerblue;
+    color:white;
+    border-radius: 2%;
+}
+
+
+.tm{
+    border-radius: 4%;
+    background-color:aliceblue;
+}
+
+.tm img{
+    height:5rem;
+    width:6rem;
+}
+
+.footer{
+    background-color: lightblue;
+}
+
+
